@@ -22,8 +22,8 @@ Be kind, do not blame, if you can do better, do it and share it (with CAD files)
 
 ### Files
 
-1. The design, as FreeCAD file. (FreeCAD v1.0.0 rc2)
-2. The sliced version (Prusa Slicer 2.8.0)
+1. (*.FCStd) The design, as FreeCAD file. (FreeCAD v1.0.0 rc2)
+2. (*.3mf)   The exported version usable in your favorite slicer (eg. Prusa Slicer 2.8.0)
 
 ### Procedure
 
