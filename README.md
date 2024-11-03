@@ -1,5 +1,7 @@
 # wabeco
 
+![Screenshot of Wabeco Holder](./WabecoHolder_Screenshot_Slicer.png) 
+
 ## Keywords
 wabeco, drilling milling stand, bf1242, 3d print
 
