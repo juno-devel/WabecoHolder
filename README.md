@@ -1,6 +1,7 @@
-# wabeco
+# Wabeco Holder (for drilling machines)
 
-![Screenshot of Wabeco Holder](./WabecoHolder_Screenshot_Slicer.png) 
+![Screenshot of Wabeco Holder](./WabecoHolder_Screenshot_Slicer.png)
+![Screenshot of Drilling milling stand BF1242](./24401-Bohrstaender-Fraesstaender-NEU-mit-Made-in-Germany.jpg)
 
 ## Keywords
 wabeco, drilling milling stand, bf1242, 3d print
